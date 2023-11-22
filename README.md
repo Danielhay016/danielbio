@@ -24,4 +24,4 @@ I'm working at Cybereason as an NOC engineer. Also, I'm a 3rd year computer scie
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/Danielhay016" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-hay-179b4a21b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="http://www.github.com/Danielhay016"><img src="https://activity-graph.herokuapp.com/graph?username=Danielhay016&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
